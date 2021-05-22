@@ -58,9 +58,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+.vscode/**
 **/.DS_Store
 **/.dSYM
 **/.out
 **/.s
 **/.json
-.vscode/*
