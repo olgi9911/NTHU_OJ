@@ -55,4 +55,4 @@ dkms.conf
 **/.dSYM
 **/.out
 **/.s
-.vscode/**
+.vscode/*
