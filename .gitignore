@@ -55,4 +55,5 @@ dkms.conf
 **/.dSYM
 **/.out
 **/.s
+**/.json
 .vscode/*
